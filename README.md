@@ -1,4 +1,4 @@
-# 👩‍💻 Joelma Almeida   
+# 👩‍💻 Joelma Almeida  
 
 ## 🌟 About Me  
 Hi there! I’m **Joelma Almeida**, a passionate **Software Developer** transitioning from a successful career in **Dentistry** to the ever-evolving field of **Technology**. With a Master’s degree in Dentistry and 7 years of professional experience, I’m now pursuing a degree in **Systems Analysis and Development**, driven by my passion for problem-solving and creating impactful solutions.  
@@ -25,7 +25,7 @@ I aim to combine my **technical expertise**, **analytical mindset**, and **creat
 ## ✨ Programming Animation  
 Here’s a coding-themed animation that represents my passion for development:  
 
-![Coding Animation](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)  
+![Woman Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ---
 
