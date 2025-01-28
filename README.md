@@ -1,4 +1,4 @@
-# 👩‍💻 Joelma Almeida  
+# 👩‍💻 Joelma Almeida   
 
 ## 🌟 About Me  
 Hi there! I’m **Joelma Almeida**, a passionate **Software Developer** transitioning from a successful career in **Dentistry** to the ever-evolving field of **Technology**. With a Master’s degree in Dentistry and 7 years of professional experience, I’m now pursuing a degree in **Systems Analysis and Development**, driven by my passion for problem-solving and creating impactful solutions.  
